@@ -10,8 +10,8 @@ import { useSettingsContext } from '../../components/settings';
 // import Image from 'src/components/image/Image';
 // section
 import MainFeaturedPost from '../../sections/two/MainFeaturedPost';
-import CarouselPost from 'src/sections/two/CarouselPost';
-import FeaturedPost from 'src/sections/two/FeaturedPost';
+import CarouselPost from '../../sections/two/CarouselPost';
+import FeaturedPost from '../../sections/two/FeaturedPost';
 
 // ----------------------------------------------------------------------
 
